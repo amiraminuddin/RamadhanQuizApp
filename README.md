@@ -38,6 +38,11 @@ database.</p>
 <br>The score are retrieved from the database. Score are arranged by lowest to the highest.</p>
 <p><img src="image/ScoreBoard.png" width="500"></p>
 
+<h1>User List & Update User</h1>
+<p>Admin can check the list of the user here by ID number.
+<br>The score are retrieved from the database. Score are arranged by lowest to the highest.</p>
+<p><img src="image/ScoreBoard.png" width="500"></p>
+
 <p>project members
 <br>Amir Aminuddin
 <br>Muhammad Amir Asyraf
