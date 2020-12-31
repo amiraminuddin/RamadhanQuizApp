@@ -22,6 +22,22 @@ At the bottom of the page there are time limit to make it interesting.</p>
 <br>The score will be saved into the Firebase inreal-time.</p>
 <p><img src="image/ResultPage.png" width="500"></p>
 
+<h1>Admin Page</h1>
+<p>This is where the Admin can make editing can view the results.
+<br>There are several button to be clicked such as Questions, Scoreboard and User.</p>
+<p><img src="image/AdminPage.png" width="500"></p>
+
+<h1>Admin Page(list of question)</h1>
+<p>Here Admin can see the list of questions and can choose which one to edit.
+<br>Every questions that have been edited will be uploaded and updated in the
+database.</p>
+<p><img src="image/QuestionView.png" width="500"></p>
+
+<h1>Scoreboard</h1>
+<p>Admin can see the list of the users and scores.
+<br>The score are retrieved from the database. Score are arranged by lowest to the highest.</p>
+<p><img src="image/ScoreBoard.png" width="500"></p>
+
 <p>project members
 <br>Amir Aminuddin
 <br>Muhammad Amir Asyraf
